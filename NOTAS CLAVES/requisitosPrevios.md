@@ -73,21 +73,21 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
   
 > Descarga e instala Chocolatey:
   
-  powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
+    powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
   
 > Descarga e instala Node JS y npm integrado:
     
-  choco install nodejs-lts --version="22"
+    choco install nodejs-lts --version="22"
 
 > Verifica la versión de Node.js:
     
-  node -v 
+    node -v 
 
   > Debería mostrar "v22.18.0 ó la que hayas instalado en el momento"
 
 > Verifica versión de npm:
     
-  npm -v
+    npm -v
 
   > Deberia mostrar "10.9.3 ó la que hayas instalado en el momento"
 

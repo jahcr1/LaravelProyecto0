@@ -3,14 +3,14 @@
 > Primero vamos a abrir nuestra carpeta de trabajo en una terminal
 > Laravel no necesita de un servidor web
 
-    laravel new proyecto1  
+    laravel new proyecto0  
 
 > éste comando activa el modo interactivo en el que nos va guiando mediante una serie de preguntas cómo va a hacer nuestra instalación
 > una vez finalizada la instalación vamos a tener creada una carpeta con el nombre "proyecto1" con todos los archivos necesarios de nuestro proyecto Laravel. 
 
 > Ahora debemos ingresar con nuestra terminal a la carpeta de proyecto
 
-    cd proyecto1  
+    cd proyecto0  
 
 ## Iniciar nuestro proyecto
 > El próximo comando sirve para arrancar nuestro proyecto Laravel (correrlo en la raiz del proyecto) y de esa manera poderlo ejecutar y ver en el navegador
@@ -24,3 +24,6 @@
 > para detener el proyecto simplemente usamos la combinación de teclas 
 > CTROL + C
 >
+> Sino abrimos otra terminal para usar comandos con
+  CTRL + SHIFT + ñ
+> CTRL + SHIFT + ñ
