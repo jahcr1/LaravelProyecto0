@@ -6,14 +6,14 @@
     laravel new proyecto1  
 
 > éste comando activa el modo interactivo en el que nos va guiando mediante una serie de preguntas cómo va a hacer nuestra instalación
-> una vez finalizada la instalación vamos a tener creada una carpeta con el nombre "proyecto1" con todos los archivos necesarios de nuestro proyecto Laravel 
+> una vez finalizada la instalación vamos a tener creada una carpeta con el nombre "proyecto1" con todos los archivos necesarios de nuestro proyecto Laravel. 
 
-> ahora debemos ingresar con nuestra terminal a la carpeta de proyecto
+> Ahora debemos ingresar con nuestra terminal a la carpeta de proyecto
 
     cd proyecto1  
 
 ## Iniciar nuestro proyecto
-> el próximo comando sirve para arrancar nuestro proyecto Laravel (correrlo en la raiz del proyecto) y de esa manera poderlo ejecutar y ver en el navegador
+> El próximo comando sirve para arrancar nuestro proyecto Laravel (correrlo en la raiz del proyecto) y de esa manera poderlo ejecutar y ver en el navegador
 
     composer run dev  
 

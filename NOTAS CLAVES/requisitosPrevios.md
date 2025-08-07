@@ -65,29 +65,29 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ### Node
 > También podrías llegar a necesitar instalado Node JS con NPM o Bun, asique ir a:
 
-    >  https://nodejs.org/es/download
+  https://nodejs.org/es/download
     
-  >  Seleccionar el sistema Operativo (En este caso Windows) y el paquete instalador
+  > Seleccionar el sistema Operativo (En este caso Windows) y el paquete instalador
 
 > Para Instalar Node JS y npm desde la terminal seguir estos pasos:
   
 > Descarga e instala Chocolatey:
   
-    > powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
+  powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
   
 > Descarga e instala Node JS y npm integrado:
     
-    > choco install nodejs-lts --version="22"
+  choco install nodejs-lts --version="22"
 
 > Verifica la versión de Node.js:
     
-    > node -v 
+  node -v 
 
   > Debería mostrar "v22.18.0 ó la que hayas instalado en el momento"
 
 > Verifica versión de npm:
     
-    > npm -v
+  npm -v
 
   > Deberia mostrar "10.9.3 ó la que hayas instalado en el momento"
 
