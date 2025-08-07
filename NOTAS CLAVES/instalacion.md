@@ -20,10 +20,10 @@
 > podemos acceder con el navegador en la URL http://localhost:8000
 
 ## Detener nuestro proyecto
-> nuestra terminal queda bloqueada. Eso quiere decir que ahora no puedo ejecutar comandos en esta terminal.
-> para detener el proyecto simplemente usamos la combinación de teclas 
+> Nuestra terminal queda bloqueada. Eso quiere decir que ahora no puedo ejecutar comandos en esta terminal.
+> 
+> Para detener el proyecto simplemente usamos la combinación de teclas 
 > CTROL + C
 >
 > Sino abrimos otra terminal para usar comandos con
-  CTRL + SHIFT + ñ
 > CTRL + SHIFT + ñ

@@ -6,7 +6,7 @@
     - Node JS y npm (Opcional) 
 
 ## Chequeo de versiones
-> en una terminal podemos escribir el siguiente comando:
+> En una terminal podemos escribir los siguientes comandos:
 
     php -v  
 
@@ -19,8 +19,8 @@
     npm -v
 
 
-## actualizaciones
-> puedo actualizar mi multi instalador de Xampp, Mamp, Laragon en caso de que no
+## Actualizaciones
+> Puedo actualizar mi multi instalador de Xampp, Mamp, Laragon en caso de que no
 > tenga una version de php actual
  
 > Respecto de Composser desde una terminal podemos utilizar este comando
@@ -62,13 +62,14 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ### Alternativa  (fresh insstall)
     Herd  <https://herd.laravel.com/>
 
-### Node
+### Node 
 > También podrías llegar a necesitar instalado Node JS con NPM o Bun, asique ir a:
 
   https://nodejs.org/es/download
     
   > Seleccionar el sistema Operativo (En este caso Windows) y el paquete instalador
 
+>
 > Para Instalar Node JS y npm desde la terminal seguir estos pasos:
   
 > Descarga e instala Chocolatey:
