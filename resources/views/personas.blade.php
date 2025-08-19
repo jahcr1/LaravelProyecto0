@@ -3,6 +3,8 @@
 
     <h1>Panel de personas</h1>
 
+    <x-alert></x-alert>
+
     <table class="table table-dark table-striped table-hover">
         <thead>
         <tr>
@@ -12,7 +14,7 @@
             <th>dni</th>
             <th>nacimiento</th>
             <th colspan="2">
-                <a href="#!">agregar</a>
+                <a href="/persona/create">agregar</a>
             </th>
         </tr>
         </thead>
@@ -24,7 +26,7 @@
             <td>{{ $persona->apellido }}</td>
             <td>{{ $persona->dni }}</td>
             <td>{{ $persona->nacimiento }}</td>
-            <td><a href="#!">editar</a></td>
+            <td><a href="/persona/{{ $persona->id }}/edit">editar</a></td>
             <td><a href="#!">borrar</a></td>
         </tr>
     @endforeach
